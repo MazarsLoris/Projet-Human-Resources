@@ -8,7 +8,7 @@ J'ai décidé d'utiliser python pour réaliser ce projet et surtout les librairi
   - Pandas pour la manipulation et analyse de données
   - Matplolib pour les différentes visualisations
 
-## Compétences mise en avant
+## Compétences mises en avant
 Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compétences ci-dessous :
    - Statistiques descriptives : Moyenne, médiane, mode, quartiles,variance, écart-type.
    - Visualisation des distributions : Histogrammes, boxplots, pie chart, diagramme en barre.
