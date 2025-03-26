@@ -1,13 +1,13 @@
 # Projet Human-Resources
-Pour ce projet nous allons travailler sur le data set Human Ressources que vous pouvez retrouver ici : <a href=https://github.com/lerocha/chinook-database>Chinook Dataset</a>.
-Une entreprise souhaite produire un rapport détaillant les ventes totales par produit pour le dernier trimestre.
+Pour ce projet nous allons travailler sur le data set Human Ressources que vous pouvez retrouver ici : <a href=https://www.kaggle.com/datasets/rhuebner/human-resources-data-set>HR Analytics Dataset</a>.
+ Une entreprise souhaite analyser la répartition des performances des employés pour comprendre les écarts et identifier les outliers.
 
 ## Objectif du projet
-L'objectif de ce projet est d'utiliser SQL pour extraire, filtrer et agréger les données nécessaires.
+ Étudier les distributions des scores de performance et des heures travaillées pour détecter les facteurs d'amélioration.
 
 ## Compétences mises en avant
 Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compétences ci-dessous :
-   - Requêtes SQL de base : SELECT, WHERE, GROUP BY, HAVING.
-   - Calculs d’agrégats : SOMME, MOYENNE pour des KPI.
-   -  Automatisation des rapports avec des vues SQL.
-
+   - Statistiques descriptives : Moyenne, médiane, mode, quartiles, variance, écart-type.
+   - Visualisation des distributions : Histogrammes, boxplots, pie chart, diagramme en barre.
+   - Détection et analyse des outliers avec la règle des 1.5 * IQR.
+   -  Manipulation des données avec Python 
