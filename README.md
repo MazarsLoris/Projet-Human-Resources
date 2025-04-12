@@ -18,6 +18,6 @@ Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compé
 
 ## Carte mentale du projet
 Afin de mieux m'appropier ce projet et comprendre les objectifs j'ai réalisé cette carte mentale.
-Cette carte mentale me permet de centré sur chaque tache sans avoir à penser aux autres car tout est inscrit dessus.
+Cette carte mentale me permet de me centré sur chaque tâche sans avoir à penser aux autres car tout est inscrit dessus tout en ayant les idées structurées.
 
 ![Projet HR Analytics](https://github.com/user-attachments/assets/50513a5a-fc02-4682-98fd-27113899d62c)
