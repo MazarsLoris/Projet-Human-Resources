@@ -10,4 +10,10 @@ Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compé
    - Statistiques descriptives : Moyenne, médiane, mode, quartiles, variance, écart-type.
    - Visualisation des distributions : Histogrammes, boxplots, pie chart, diagramme en barre.
    - Détection et analyse des outliers avec la règle des 1.5 * IQR.
-   -  Manipulation des données avec Python 
+   -  Manipulation des données avec Python
+
+## Carte mentale du projet
+Afin de mieux m'appropier ce projet et comprendre les objectifs j'ai réalisé cette carte mentale.
+Cette carte mentale me permet de centré sur chaque tache sans avoir à penser aux autres car tout est inscrit dessus.
+
+![Projet HR Analytics](https://github.com/user-attachments/assets/50513a5a-fc02-4682-98fd-27113899d62c)
