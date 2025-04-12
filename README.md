@@ -1,10 +1,13 @@
 # Projet Human-Resources
 Pour ce projet nous allons travailler sur le data set Human Ressources que vous pouvez retrouver ici : <a href=https://www.kaggle.com/datasets/rhuebner/human-resources-data-set>HR Analytics Dataset</a>.
  Une entreprise souhaite analyser la répartition des performances des employés pour comprendre les écarts et identifier les outliers.
- Ce jeux de données
+ Ce jeux de données est composé de 331 lignes et 36 colonnes. Voici à quoi correspondent chaque colonnes.
+ 
+ ![image](https://github.com/user-attachments/assets/1229229c-b289-46c4-844e-a3993e232b32)
+
 
 ## Objectif du projet
- Étudier les distributions des scores de performance et des heures travaillées pour détecter les facteurs d'amélioration.
+Étudier les distributions des scores de performance et des heures travaillées pour détecter les facteurs d'amélioration.
 
 ## Compétences mises en avant
 Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compétences ci-dessous :
