@@ -12,7 +12,7 @@ Ce jeux de données est composé de 311 lignes et 36 colonnes. Voici à quoi cor
 Étudier les distributions des scores de performance et des heures travaillées pour détecter les facteurs d'amélioration.
 
 L’objectif était de répondre à une problématique métier concrète :  
-> **Fournir à l’entreprise un rapport automatisé sur les données RH pour permettre de voir facilement les évolutions des scores de performances.**
+> **Fournir à l’entreprise un tableau de bord automatisé sur les données RH pour permettre de voir facilement les évolutions des scores de performances.**
 
 
 ## 🛠️ Compétences mises en avant
