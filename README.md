@@ -26,6 +26,31 @@ Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compé
 Afin de mieux m'appropier ce projet et comprendre les objectifs j'ai réalisé cette carte mentale.
 Cette carte mentale me permet de me centré sur chaque tâche sans avoir à penser aux autres car tout est inscrit dessus tout en ayant les idées structurées.
 
-![Projet HR Analytics](https://github.com/user-attachments/assets/e0e32fd1-b8e9-414b-b54e-338d2268f512)
+![Projet HR Analytics](https://github.com/user-attachments/assets/e613b2fb-e108-4269-974f-5a9630fa564e)
 
+## Conclusion du projet
 
+Ce projet m’a permis d’explorer en profondeur les ressources humaines d’une entreprise à travers une analyse complète des données disponibles. À partir d’un jeu de données RH riche et structuré, j’ai pu mettre en œuvre plusieurs techniques de nettoyage, de visualisation et d’analyse statistique, tout en renforçant mes compétences à la fois en Python et en Power BI.
+
+✅ Résultats clés de l’analyse:
+- Il existe une forte hétérogénéité des salaires, avec de nombreux outliers et une concentration des salaires autour de 100 000 $.
+- Les scores de performance sont majoritairement positifs (“Fully Meets” ou “Exceeds”), bien que certains employés soient en situation de “PIP” ou de “Needs Improvement”.
+- L'engagement et la satisfaction ont un lien positif, c'est donc un axe de progression pour l'entreprise.
+- L'age n'a pas réellement d'impact dans les scores de performances.
+- Il fausrait un suivi des managers car certains départements possédent de nombreux employés avec des scores faibles
+
+🐍 Compétences Python renforcées:
+- Manipulation avancée avec pandas: nettoyage de dates, gestion des types, détection de valeurs aberrantes, regroupements conditionnels.
+- Visualisations avec matplotlib: création de boxplots, nuages de points, histogrammes et visualisation conditionnelle.
+- Approfondissement des notions de typage, de traitement des données catégorielles, et de gestion d’erreurs.
+
+📊 Utilisation de Power BI:
+- Construction d’un dashboard clair et interactif, permettant de suivre l’évolution des indicateurs clés.
+-Apprentissage de la gestion des types de données, notamment l’application correcte des formats monétaires.
+- Création de graphes croisés dynamiques.
+ Utilisation des segments et filtres dynamiques pour faciliter la lecture et l’exploration par l’utilisateur.
+
+🔎 En résumé :
+Ce projet m’a offert une vision complète du cycle de vie d’un projet de data analysis : de la préparation des données à leur visualisation interactive. Il m’a permis de mettre en pratique des compétences essentielles pour un data analyst, tout en développant une compréhension plus fine des enjeux RH dans une entreprise.
+
+Je suis désormais plus à l’aise pour conduire une analyse exploratoire avec Python, construire un dashboard professionnel avec Power BI, et surtout, raconter une histoire claire à partir de données complexes.
