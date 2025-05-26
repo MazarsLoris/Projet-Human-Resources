@@ -12,7 +12,7 @@ Ce jeux de données est composé de 311 lignes et 36 colonnes. Voici à quoi cor
 Étudier les distributions des scores de performance et des heures travaillées pour détecter les facteurs d'amélioration.
 
 L’objectif était de répondre à une problématique métier concrète :  
-> **Fournir à l’entreprise un tableau de bord automatisé sur les données RH pour permettre de voir facilement les évolutions des scores de performances.**
+> **Fournir à l’entreprise un rapport automatisé sur les données RH pour permettre de voir facilement les évolutions des scores de performances.**
 
 
 ## 🛠️ Compétences mises en avant
@@ -37,7 +37,7 @@ Ce projet m’a permis d’explorer en profondeur les ressources humaines d’un
 - Les scores de performance sont majoritairement positifs (“Fully Meets” ou “Exceeds”), bien que certains employés soient en situation de “PIP” ou de “Needs Improvement”.
 - L'engagement et la satisfaction ont un lien positif, c'est donc un axe de progression pour l'entreprise.
 - L'age n'a pas réellement d'impact dans les scores de performances.
-- Il fausrait un suivi des managers car certains départements possédent de nombreux employés avec des scores faibles
+- Il faudrait un suivi des managers car certains départements possédent de nombreux employés avec des scores faibles
 
 🐍 Compétences Python renforcées:
 - Manipulation avancée avec pandas: nettoyage de dates, gestion des types, détection de valeurs aberrantes, regroupements conditionnels.
@@ -45,12 +45,12 @@ Ce projet m’a permis d’explorer en profondeur les ressources humaines d’un
 - Approfondissement des notions de typage, de traitement des données catégorielles, et de gestion d’erreurs.
 
 📊 Utilisation de Power BI:
-- Construction d’un dashboard clair et interactif, permettant de suivre l’évolution des indicateurs clés.
+- Construction d’un rapport clair et interactif, permettant de suivre l’évolution des indicateurs clés.
 -Apprentissage de la gestion des types de données, notamment l’application correcte des formats monétaires.
 - Création de graphes croisés dynamiques.
- Utilisation des segments et filtres dynamiques pour faciliter la lecture et l’exploration par l’utilisateur.
+- Utilisation des segments et filtres dynamiques pour faciliter la lecture et l’exploration par l’utilisateur.
 
 🔎 En résumé :
 Ce projet m’a offert une vision complète du cycle de vie d’un projet de data analysis : de la préparation des données à leur visualisation interactive. Il m’a permis de mettre en pratique des compétences essentielles pour un data analyst, tout en développant une compréhension plus fine des enjeux RH dans une entreprise.
 
-Je suis désormais plus à l’aise pour conduire une analyse exploratoire avec Python, construire un dashboard professionnel avec Power BI, et surtout, raconter une histoire claire à partir de données complexes.
+Je suis désormais plus à l’aise pour conduire une analyse exploratoire avec Python, construire un rapport professionnel avec Power BI, et surtout, raconter une histoire claire à partir de données complexes.
